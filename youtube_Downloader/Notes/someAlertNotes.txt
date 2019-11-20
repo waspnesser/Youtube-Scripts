@@ -1,0 +1,9 @@
+-$ notify-send --urgency=critical --expire-time=120 "Title" "Fringles"
+-$ zenity --error --text="An error occurred\!" --title="Warning\!"
+-$ zenity --question --text="Do you wish to continue/?"
+-$ find /usr | zenity --progress --pulsate --auto-close --auto-kill --text="Working..."
+-$ whiptail --title "Example Dialog" --msgbox "This is an example of a message box. You must hit OK to continue." 8 78
+-$ toilet -F border -F gay "CRAZY"
+-$ xmessage "$(printf "hello\nworld")"
+-$ echo 'This is a test' | boxes
+

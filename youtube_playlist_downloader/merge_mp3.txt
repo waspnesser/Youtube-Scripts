@@ -1,0 +1,4 @@
+Mp3 dosyalarını birleştirmek(merging) için mp3wrap'i kullan. Şimdilik bunun kodunu yazamadım .
+Ama ffmpeg'in python modülü ile yapmak mümkün . Daha sonra artık.
+mp3wrap kullanım : 
+$ mp3wrap album.mp3 first.mp3 second.mp3 third.mp3 ...
